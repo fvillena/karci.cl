@@ -1,0 +1,4 @@
+baseURL = 'https://karci.cl/'
+languageCode = 'es-cl'
+title = 'Karci SpA'
+theme = 'ananke'
