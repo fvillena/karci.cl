@@ -18,12 +18,3 @@ Nuestro enfoque en la calidad y la precisión técnica, valoramos profundamente 
 # Sellos
 - Servicios de construcción a la medida del cliente.
 - Uso de las últimas tecnologías y técnicas innovadoras para garantizar la eficiencia en la obra.
-
-# Clientes
-Nos enfocamos en clientes como personas naturales como jurídicas, tanto a nivel privado como público, que se encuentren en cualquier sector productivo o mercado.
-
-# Situación Problemática 
-En el mercado, muchos clientes u organizaciones necesitan que se le resuelvan sus necesidades constructivas de baja escala, donde muchas empresas constructoras no ofrecen el servicio constructivo de obras menores.
-
-# Solución 
-En Empresa Karci dentro de nuestra oferta constructiva, atendemos las necesidades de los clientes, que requieran del apoyo de resolver necesidades de obras menores, cumpliendo con las expectativas de nuestros usuarios y satisfacer las necesidades reales de ellos.
