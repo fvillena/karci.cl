@@ -11,10 +11,10 @@ enableRobotsTXT = true
 
 [params]
 text_color = ""
-author = ""
+author = "Fabián Villena"
 favicon = ""
 site_logo = "/images/logo_cropped.jpg"
-description = "Karci"
+description = "Karci ofrece servicios constructivos personalizados de alta calidad, especializados en obra gruesa y acabados. Utilizamos tecnologías avanzadas y atendemos tanto a clientes individuales como a organizaciones, incluyendo proyectos de menor escala. Nos comprometemos a superar las expectativas con eficiencia y atención al detalle."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
 recent_posts_number = 3
