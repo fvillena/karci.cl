@@ -1,6 +1,6 @@
 baseURL = 'https://karci.cl/'
 languageCode = 'es-cl'
-title = 'Karci SpA'
+title = 'Karci'
 theme = 'ananke'
 resourceDir = "../resources"
 
@@ -13,8 +13,8 @@ enableRobotsTXT = true
 text_color = ""
 author = ""
 favicon = ""
-site_logo = ""
-description = "Karci SpA"
+site_logo = "/images/logo_cropped.jpg"
+description = "Karci"
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
 recent_posts_number = 3
